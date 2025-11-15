@@ -1,1 +1,0 @@
-Looking for an entry-level Java Developer with strong Core Java fundamentals and good coding habits. Candidate should understand OOP, collections, and basic JDBC operations. Role involves writing simple modules, debugging code, and supporting application maintenance.
