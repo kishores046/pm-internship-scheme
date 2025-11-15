@@ -1,0 +1,1 @@
+Looking for a Java Developer with strong Core Java skills, JDBC, and Java I/O. Must be able to work with Spring Core, Spring MVC basics, MySQL, Git, Maven, and JUnit.

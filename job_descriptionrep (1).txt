@@ -1,0 +1,25 @@
+Role Overview:
+The company is seeking a Java Full Stack Developer capable of building scalable, secure, and production-ready applications. The candidate should be strong in backend engineering using Core Java, Spring Framework, and Spring Boot, with proficiency in modern frontend technologies.
+
+Required Skills:
+• Strong proficiency in Core Java, OOP principles, and design patterns
+• Expertise in Spring Core, Spring MVC, Spring Boot, and Spring Data JPA
+• Experience building and consuming REST APIs
+• Solid knowledge of MySQL or other relational databases
+• Familiarity with Hibernate, ORM concepts, and query optimization
+• Frontend skills using HTML/CSS, JavaScript, and React (or equivalent)
+• Hands-on experience with Maven, Git, and basic CI/CD workflows
+• Understanding of microservices principles is an added advantage
+
+Responsibilities:
+• Develop and maintain backend services using Java and Spring Boot
+• Design RESTful APIs and integrate them with frontend components
+• Build responsive UI features using JavaScript or React
+• Work with databases to design schemas, write queries, and ensure data consistency
+• Optimize application performance, security, and scalability
+• Collaborate with cross-functional teams in an agile environment
+
+Preferred Attributes:
+• Strong problem-solving ability
+• Good understanding of SDLC and software engineering best practices
+• Ability to work independently and deliver quality results
